@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: za.co.momentum.activeshoppe.ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.005 sec - in za.co.momentum.activeshoppe.ApplicationTests
