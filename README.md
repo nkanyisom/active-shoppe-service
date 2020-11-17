@@ -1,4 +1,4 @@
-# momentum-active-shoppe-app
+# active-shoppe-app
 This is a basic shop Service where customers can purchase products provided they have enough purchase points
 
 Api Endpoints:- 
